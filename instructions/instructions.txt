@@ -1,0 +1,42 @@
+Sci-Fi Movies (or Even More Links and Images)!
+
+
+This project folder contains a blank index.html page and a selection of images of
+sci-fi movie posters.  Your task is to build out index.html with information about 
+the sci-fi genre, and create a new featured.html page with a selection of the movie
+posters, as well as some general information about movie posters.  Use the html
+pages pictured in index.png and featured.png as reference.
+
+Make sure to include the following concepts in your solution:
+ - navigation bar to move between links
+ - ordered and unordered lists
+ - internal relative URLs
+ - correctly sized and formatted images
+
+Use http://picresize.com/ to resize, compress and save each image in the most appropriate format.
+ - Top image should be 1050px x 364px
+ - Thumbnail images should be 175px x 265px
+
+
+HINTS
+ - Organize your images within your HTML folder in a logical way that will make them easy to work with 
+ - You don't have to retype all the text on the two pages - feel free to copy and paste from the source texts
+
+
+RESOURCES
+ index.html 
+- http://thescriptlab.com/screenplay/genre/science-fiction# 
+- http://www.imdb.com/list/ls050327295/
+
+ featured.html 
+- https://en.wikipedia.org/wiki/Film_poster
+
+
+BONUS
+ - Find a couple of sci-fi themed SVG's here: http://www.flaticon.com/
+ - Then, replace your nav bar text links with an <img> linking to an SVG. Instead of displaying the link text on the page, have it display at the tooltip on hover.
+ - Check out this article about SVG's if you need more info about how to use them: https://css-tricks.com/using-svg/
+	 - There's A LOT of information in there - much of which will go over your head
+	 - That's OK! Coming across these sorts of things as you're teaching yourself how to code is common!
+	 - Skip over stuff you don't understand and figure out the easiest way to use an SVG for this particular situation (it's easier than you might think)
+ - There is a small space between the thumbnail images - can you figure out how to remove that space?
